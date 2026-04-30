@@ -31,7 +31,7 @@ class Ksenia:
         self.university  = "ITMO University 🎓"
         self.major       = "Information Security 🔐"
         self.year        = "2nd year"
-        self.languages   = ["Python 🐍", "C", "C++", "JavaScript ✨"]
+        self.languages   = ["Python ", "C", "C++", "JavaScript "]
         self.interests   = ["Cybersecurity", "Backend Dev", "CTF challenges"]
         self.hobbies     = ["Reading 📚", "Music 🎵", "Exploring new tech 💡"]
 
